@@ -1,0 +1,8 @@
+number=set()
+number.add(int(input("enter number 1")))
+number.add(int(input("enter number 2")))
+number.add(int(input("enter number 3")))
+number.add(int(input("enter number 4")))
+number.add(int(input("enter number 5")))
+number.add(int(input("enter number 6")))
+print(number)
