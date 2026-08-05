@@ -58,4 +58,4 @@ This repository is continuously updated as I learn and practice new Python conce
 
 > **Keep Learning. Keep Building. Keep Growing.** 🚀
 
-⭐ If you like this repository, don't forget to give it a star!
+⭐ If you like this repository, don't forget to give it a Star!
