@@ -109,7 +109,7 @@ python filename.py
 
 </div>
 
-This repository is continuously updated as I learn and practice new Python concepts. Check back often for new programs, notes, and mini projectss.
+This repository is continuously updated as I learn and practice new Python concepts. Check back often for new programs, notes, and mini projects.
 
 ---
 
